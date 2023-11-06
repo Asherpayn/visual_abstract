@@ -1,2 +1,2 @@
 # Anomaly
-Our random "game studi"
+Our random "game studio"
