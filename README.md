@@ -1,3 +1,2 @@
 # Anomaly
-Our random "game studio"
-built on the scratch programming language
+Our random "game studi"
