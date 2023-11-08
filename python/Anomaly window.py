@@ -1,0 +1,17 @@
+import tkinter as tk
+def submit():
+    e.delete('0', 'end')
+    t.pack()
+    t.place(x=350, y=300)
+w = tk.Tk()
+w.geometry('800x500')
+l = tk.Label(w, text='Enter your GitHub username:')
+l.place(x=355, y=225)
+e = tk.Entry(w)
+e.place(x=355, y=250)
+b = tk.Button(w, text='Submit', command=submit)
+b.place(x=365, y=275)
+t = tk.Label(w, text=('Hi, thanks for downloading!'))
+t.pack_forget()
+n = tk.Label(w, text='Note: This username will not be given to anyone but ourselves. We will only use it to contact you about our code.')
+n.pack()
