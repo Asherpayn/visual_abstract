@@ -13,6 +13,3 @@ while True:
     parte = choice(pes)
     input(">>> ")
     print(parta, partb, partc, partd, parte)
-
-
-    
