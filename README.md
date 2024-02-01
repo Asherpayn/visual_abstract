@@ -1,5 +1,5 @@
 # Anomaly
-Our random "game studio".
+
 We upload & create Scratch files, HTML docs, Python files, ect.
 
 Squirrel:
