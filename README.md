@@ -1,9 +1,9 @@
 # Visual_abstract
-We upload & create Scratch files, HTML docs, Python files, ect.
+We create games usually, but also other code.
 
-Squirrel:
-Ethical Hacker that specialises in building hacking-related projects.
+Sq_c:
+Game developer that owns Visual_Abstract. Also good at Python and Scratch, decent at HTML and JS.
 
 Asherpayn:
-Coder and computer genius that specialises in HTML.
+Owns Visual_Abstract. Coder and computer genius that specialises in HTML.
 
